@@ -1,0 +1,111 @@
+.navbar{
+    margin-top: 45px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+}.navleft img{
+    width: 80px;
+
+}.navlist li{
+    list-style: none;
+    display: inline;
+    font-style: normal;
+    padding-left: 45px;
+}.navright{
+    margin-top: 10px;
+}.navright button{
+    padding: 5px 15px;
+    border-radius: 8px;
+}.firstpart{
+    display: flex;
+}.firstleft{
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 50%;
+    height: 90vh;
+    align-items: center;
+}
+.firstright img{
+    height: 100vh;
+}.firstleft h1{
+    font-size: 70px;
+}.firstleft span{
+    color: blue;
+}.firstleft  button{
+    padding: 15px 35px;
+    background-color: #0E1035;
+    color: white;
+    border-radius: 8px;
+}.secondpart {
+    text-align: center;
+    background-color: #0E1035;
+    color: white;
+}.image img{
+    height: 50px;
+    padding: 35px 55px;
+}.secsec{
+    display: flex;
+}.secondleft img{
+    width: 400px;
+    padding-left: 70px;
+    padding-bottom: 50px;
+}.secondleft{
+ width: 50%;
+
+}
+.secondright{
+    text-align: start;
+    width: 50%;
+}.secondright h3{
+    font-size: 35px;
+}.lists{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 35px;
+}.lists div li a{
+    /* text-decoration: none; */
+    color: white;
+    padding-bottom: 7px;
+}.lists div li{
+    list-style: none;
+    padding-top: 20px;
+}.thirdpart{
+    display: flex;
+    height: 573px;
+    width: 1481px;
+    border-radius: 0px;
+    justify-content: space-between;
+    margin-top: 45px;
+margin-top: 45px;
+}.left3{
+    font-size: 25px;
+    height: 552px;
+width: 759px;
+color: black;
+padding-left: 40px;
+}.list{
+    display: flex;
+    align-self: center;
+    list-style: none;
+}
+.list div a{
+    list-style: none;
+    color: #0E1035;
+    padding-bottom: 7px;
+}.right3 img{
+    width: 500px;
+    margin-right: 30px;
+}.list div li{
+    list-style: none    ;
+}.left3 h2{
+    font-weight: 800;
+}.fourthpart{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}.fourthpart img{
+    height: 400px;
+}
